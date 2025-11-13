@@ -19,6 +19,8 @@ public class MortgageCalculator {
         double mortgage=ammount*Nomi/Dnomi;
 
         System.out.println("Your monthly mortgage is "+mortgage);
+        double total= mortgage*n ;
+        System.out.println("Total mortgage =   " +total);
 
 
     }
