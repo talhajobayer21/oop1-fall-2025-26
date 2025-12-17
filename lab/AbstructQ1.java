@@ -1,5 +1,5 @@
 
-// an abstruct method Calculate area()
+// an abstruct method Calculate area
 // a cncrete method displayShape()
 // Create two sub class
 // 1.Rectangle(with lenght and width)
