@@ -1,0 +1,5 @@
+Student ,MD Talha Jobayer,25-63021-2,CSE, xyx@gmail.com  
+Faculty,MR X,0123456789,FST, x1@gmail.com  
+Manegement ,MR Y,5563456789,Accounts, y1@gmail.com  
+Management ,Mr z,465465454,IT,a@gmail.com
+,,,,
